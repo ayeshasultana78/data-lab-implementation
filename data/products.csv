@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+P001,Laptop,Electronics,900
+P002,Phone,Electronics,650
+P003,Tablet,Electronics,400
+P004,Headphones,Electronics,120
+P005,Smartwatch,Electronics,220
+P006,Monitor,Electronics,300
+P007,Keyboard,Electronics,45
+P008,Mouse,Electronics,25
+P009,Desk,Furniture,250
+P010,Chair,Furniture,180
+P011,Lamp,Furniture,35
+P012,Bookshelf,Furniture,140
+P013,Notebook,Stationery,4
+P014,Pen Set,Stationery,12
+P015,Backpack,Lifestyle,55
+P016,Water Bottle,Lifestyle,15
+P017,Yoga Mat,Lifestyle,30
+P018,Dumbbells,Lifestyle,60
+P019,Sneakers,Lifestyle,85
+P020,Jacket,Lifestyle,110
